@@ -1,0 +1,8 @@
+F:\C#\Simple Console Snake\Simple Console Snake\bin\Debug\Simple Console Snake.exe.config
+F:\C#\Simple Console Snake\Simple Console Snake\bin\Debug\Simple Console Snake.exe
+F:\C#\Simple Console Snake\Simple Console Snake\bin\Debug\Simple Console Snake.pdb
+F:\C#\Simple Console Snake\Simple Console Snake\obj\Debug\Simple Console Snake.csproj.AssemblyReference.cache
+F:\C#\Simple Console Snake\Simple Console Snake\obj\Debug\Simple Console Snake.csproj.SuggestedBindingRedirects.cache
+F:\C#\Simple Console Snake\Simple Console Snake\obj\Debug\Simple Console Snake.csproj.CoreCompileInputs.cache
+F:\C#\Simple Console Snake\Simple Console Snake\obj\Debug\Simple Console Snake.exe
+F:\C#\Simple Console Snake\Simple Console Snake\obj\Debug\Simple Console Snake.pdb
